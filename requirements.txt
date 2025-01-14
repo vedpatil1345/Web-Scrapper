@@ -1,7 +1,5 @@
 streamlit
 requests
 beautifulsoup4
-validators
 pandas
-urllib3
-python-csv
+validators
