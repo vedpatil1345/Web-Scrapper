@@ -64,7 +64,7 @@ def display_image_preview(image_url):
         st.error(f"Could not load image preview: {image_url}")
 
 def main():
-    st.title("Web Scraping Tool 🕸️")
+    st.title("WebCapture🕸️")
     
     # URL input
     url = st.text_input("Enter the website URL:", "")
